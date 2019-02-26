@@ -1,4 +1,4 @@
-{"minX":3118,"maxX":3118,"minY":3266,"maxY":3266,"z":0,"id":15507,"orientation":1536,"name":"Wheat"},
+[{"minX":3118,"maxX":3118,"minY":3266,"maxY":3266,"z":0,"id":15507,"orientation":1536,"name":"Wheat"},
 {"minX":3116,"maxX":3116,"minY":3270,"maxY":3270,"z":0,"id":15506,"orientation":0,"name":"Wheat"},
 {"minX":3054,"maxX":3054,"minY":3312,"maxY":3312,"z":0,"id":8535,"orientation":1024,"name":"Cabbages"},
 {"minX":3220,"maxX":3220,"minY":3351,"maxY":3351,"z":0,"id":15506,"orientation":1536,"name":"Wheat"},
@@ -1228,4 +1228,4 @@
 {"minX":3050,"maxX":3050,"minY":3295,"maxY":3295,"z":0,"id":1161,"orientation":1536,"name":"Cabbage"},
 {"minX":2952,"maxX":2952,"minY":3446,"maxY":3446,"z":0,"id":15506,"orientation":512,"name":"Wheat"},
 {"minX":3119,"maxX":3119,"minY":3272,"maxY":3272,"z":0,"id":15506,"orientation":1024,"name":"Wheat"},
-{"minX":3212,"maxX":3212,"minY":3343,"maxY":3343,"z":0,"id":15506,"orientation":512,"name":"Wheat"},
+{"minX":3212,"maxX":3212,"minY":3343,"maxY":3343,"z":0,"id":15506,"orientation":512,"name":"Wheat"},]
